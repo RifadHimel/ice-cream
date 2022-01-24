@@ -1,0 +1,165 @@
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\ApplicationInsights.config
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\csc.exe
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\System.Collections.Immutable.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\vbc.exe
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\VBCSCompiler.exe
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\roslyn\VBCSCompiler.exe.config
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\IceCream.dll.config
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\IceCream.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\IceCream.pdb
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.Web.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.WindowsServer.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.ApplicationInsights.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.Web.xml
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.AI.WindowsServer.xml
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.ApplicationInsights.xml
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\obj\Debug\IceCream.csprojResolveAssemblyReference.cache
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\obj\Debug\IceCream.dll
+c:\users\anni\documents\visual studio 2015\Projects\IceCream\IceCream\obj\Debug\IceCream.pdb
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\ApplicationInsights.config
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\csc.exe
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\vbc.exe
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\IceCream.dll.config
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\IceCream.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\IceCream.pdb
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.Web.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.Web.xml
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anni\Desktop\IceCream\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anni\Desktop\IceCream\IceCream\obj\Debug\IceCream.csprojResolveAssemblyReference.cache
+C:\Users\Anni\Desktop\IceCream\IceCream\obj\Debug\IceCream.dll
+C:\Users\Anni\Desktop\IceCream\IceCream\obj\Debug\IceCream.pdb
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\ApplicationInsights.config
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\csc.exe
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\vbc.exe
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\IceCream.dll.config
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\IceCream.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\IceCream.pdb
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.Web.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.Web.xml
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\obj\Debug\IceCream.csprojResolveAssemblyReference.cache
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\obj\Debug\IceCream.dll
+C:\Users\Anni\Desktop\IceCream - Copy (2)\IceCream\obj\Debug\IceCream.pdb
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\ApplicationInsights.config
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\csc.exe
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\vbc.exe
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\IceCream.dll.config
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\IceCream.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\IceCream.pdb
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.Web.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.Web.xml
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\obj\Debug\IceCream.csprojResolveAssemblyReference.cache
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\obj\Debug\IceCream.dll
+C:\Users\Anni\Desktop\IceCream - trying\IceCream\obj\Debug\IceCream.pdb
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\ApplicationInsights.config
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\csc.exe
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\vbc.exe
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\IceCream.dll.config
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\IceCream.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\IceCream.pdb
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.Web.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.Web.xml
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\obj\Debug\IceCream.csprojResolveAssemblyReference.cache
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\obj\Debug\IceCream.dll
+C:\Users\Anni\Desktop\IceCream - trying - Copy (2)\IceCream\obj\Debug\IceCream.pdb
